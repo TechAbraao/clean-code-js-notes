@@ -1,0 +1,105 @@
+{
+    "products": [
+      {
+        "name": "Camiseta Básica",
+        "description": "Camiseta de algodão, confortável e ideal para o dia a dia.",
+        "price": 29.90
+      },
+      {
+        "name": "Tênis Esportivo",
+        "description": "Tênis leve e confortável para corridas e caminhadas.",
+        "price": 149.90
+      },
+      {
+        "name": "Relógio de Pulso",
+        "description": "Relógio analógico com design moderno e elegante.",
+        "price": 199.90
+      },
+      {
+        "name": "Fone de Ouvido",
+        "description": "Fone de ouvido bluetooth, com som de alta qualidade.",
+        "price": 89.90
+      },
+      {
+        "name": "Mochila de Nylon",
+        "description": "Mochila de nylon resistente, ideal para viagens e passeios.",
+        "price": 129.90
+      },
+      {
+        "name": "Caderno A5",
+        "description": "Caderno espiral A5 com 200 folhas, para anotações e estudos.",
+        "price": 14.90
+      },
+      {
+        "name": "Cafeteira Elétrica",
+        "description": "Cafeteira de 1 litro, com filtro e função de aquecimento.",
+        "price": 79.90
+      },
+      {
+        "name": "Sofá Retrátil",
+        "description": "Sofá retrátil e reclinável, confortável e elegante para sua sala.",
+        "price": 999.90
+      },
+      {
+        "name": "Smartphone",
+        "description": "Smartphone com tela de 6.5 polegadas e 64GB de memória.",
+        "price": 1299.90
+      },
+      {
+        "name": "Cadeira de Escritório",
+        "description": "Cadeira ergonômica com apoio para os braços e ajustes de altura.",
+        "price": 349.90
+      },
+      {
+        "name": "Kit de Maquiagem",
+        "description": "Kit completo de maquiagem com blush, base e batom.",
+        "price": 89.90
+      },
+      {
+        "name": "Óculos de Sol",
+        "description": "Óculos de sol com proteção UV e design moderno.",
+        "price": 149.90
+      },
+      {
+        "name": "Liquidificador",
+        "description": "Liquidificador com 5 velocidades e copo de 1,5L.",
+        "price": 159.90
+      },
+      {
+        "name": "TV LED 32'",
+        "description": "Televisor LED de 32 polegadas com resolução Full HD.",
+        "price": 899.90
+      },
+      {
+        "name": "Churrasqueira Elétrica",
+        "description": "Churrasqueira elétrica portátil, para fazer churrasco em casa.",
+        "price": 219.90
+      },
+      {
+        "name": "Processador de Alimentos",
+        "description": "Processador multifuncional, ideal para cortar e picar alimentos.",
+        "price": 139.90
+      },
+      {
+        "name": "Conjunto de Panelas",
+        "description": "Conjunto de 5 panelas antiaderentes para cozinhar com facilidade.",
+        "price": 299.90
+      },
+      {
+        "name": "Jogo de Lençol",
+        "description": "Conjunto de lençóis de algodão, macios e confortáveis.",
+        "price": 69.90
+      },
+      {
+        "name": "Câmera Fotográfica",
+        "description": "Câmera digital com 20MP e capacidade de gravação em 4K.",
+        "price": 1599.90
+      },
+      {
+        "name": "Xbox Series X",
+        "description": "Console de videogame de última geração, com jogos inclusos.",
+        "price": 4999.90
+      }
+    ]
+  }
+  
